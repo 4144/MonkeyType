@@ -4,6 +4,9 @@ Changelog
 master
 ------
 
+* Catch and log serialization exceptions instead of crashing. Fixes #38, merge
+  of #39.
+
 17.12.3
 -------
 
